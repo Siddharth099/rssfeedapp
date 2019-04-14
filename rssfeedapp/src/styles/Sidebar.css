@@ -1,0 +1,4 @@
+.feedStyle a:active,
+.feedStyle a.active{
+    background-color: yellow;
+}
